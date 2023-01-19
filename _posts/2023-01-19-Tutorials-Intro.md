@@ -19,21 +19,25 @@ This can be demonstrated here:
 Write a "Hello World" Program
 Write a script, which when ran, will output the words "Hello World"
 
+
 # Answer
 <details>
   <summary>Answer</summary>
-    
+
 ```python
 print("Hello World")
 ```
 
 </details>
 
+
 # Explanation
 <details>
     <summary>Explain</summary>
-    You can use the `print` function to output to the console.
+    
+You can use the `print` function to output to the console.
 </details>
+
 
 ---
 
