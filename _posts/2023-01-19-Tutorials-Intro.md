@@ -13,15 +13,28 @@ Tutorials will take place in 3 parts:
 
 This can be demonstrated here:
 
+---
+
 # Challenge
 Write a "Hello World" Program
 Write a script, which when ran, will output the words "Hello World"
 
+# Answer
 <details>
-    <summary>Answer </summary>
+  <summary>Answer</summary>
     
-    ```python
-    print("Hello World")
-    ```
+```python
+print("Hello World")
+```
 
 </details>
+
+# Explanation
+<details>
+    <summary>Explain</summary>
+    You can use the `print` function to output to the console.
+</details>
+
+---
+
+It is highly encouraged for you to try to attempt the challenge your self, even if it means googling around to figure out the answer.  In doing so, you will learn much more than if you were to just copy the answer down in to your own IDE!
