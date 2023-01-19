@@ -13,5 +13,3 @@ Some of this involves creating tutorials for writing code, and at other times wi
 # Tyler McVety
 
 Tyler is currently working in his second tour of *VMware* as a *Security Automation Engineer*.  His current goal is to enable all teams to work on development and automation, while leveraging developer and SME knowledge.
-
-*[SME]Subject Matter Expert
