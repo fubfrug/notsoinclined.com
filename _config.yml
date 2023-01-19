@@ -32,16 +32,7 @@ remote-theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-
-# Markdown Processors
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
